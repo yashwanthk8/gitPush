@@ -1,0 +1,4 @@
+@reference "../../styles.css";
+.bt{
+  @apply text-3xl font-semibold text-green-600 text-left;
+}
